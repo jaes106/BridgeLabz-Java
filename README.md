@@ -60,3 +60,9 @@
 
 - **14-Jan-2026 (Wednesday):**
   Completed encapsulation, started practicing problems on Linked Lists.
+
+- **16-Jan-2026 (Friday):**
+  Corrected branch names, package names, and Git commit messages according to naming conventions.
+
+- **17-Jan-2026 (Saturday):**
+  Practiced stack, queue, HashMap, and hashing function problems, and pushed the code to GitHub.

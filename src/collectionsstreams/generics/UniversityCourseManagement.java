@@ -1,53 +1,47 @@
-package collectionsstreams.generics;
-
-import java.util.ArrayList;
-import java.util.List;
+package javacollectionsandstreams.javagenerics;
+import java.util.*;
 
 abstract class CourseType {
-    abstract String evaluationType();
+    abstract String getEvaluationType();
 }
 
 class ExamCourse extends CourseType {
-    String evaluationType() {
-        return "Exam Based";
-    }
+    String getEvaluationType() { return "Exam Based"; }
 }
 
 class AssignmentCourse extends CourseType {
-    String evaluationType() {
-        return "Assignment Based";
-    }
+    String getEvaluationType() { return "Assignment Based"; }
 }
 
 class ResearchCourse extends CourseType {
-    String evaluationType() {
-        return "Research Based";
-    }
+    String getEvaluationType() { return "Research Based"; }
 }
 
 class Course<T extends CourseType> {
-    String name;
-    T type;
+    private String name;
+    private T type;
 
     Course(String name, T type) {
         this.name = name;
         this.type = type;
     }
+
+    String getDetails() {
+        return name + " - " + type.getEvaluationType();
+    }
 }
 
 public class UniversityCourseManagement {
-
-    static void displayCourses(List<? extends CourseType> list) {
-        for (CourseType c : list)
-            System.out.println(c.evaluationType());
-    }
-
     public static void main(String[] args) {
-        List<CourseType> courses = new ArrayList<>();
-        courses.add(new ExamCourse());
-        courses.add(new ResearchCourse());
+        List<Course<? extends CourseType>> courses = new ArrayList<>();
 
-        displayCourses(courses);
+        courses.add(new Course<>("Algorithms", new ExamCourse()));
+        courses.add(new Course<>("AI Project", new ResearchCourse()));
+        courses.add(new Course<>("Java Lab", new AssignmentCourse()));
+
+        for (Course<? extends CourseType> c : courses) {
+            System.out.println(c.getDetails());
+        }
     }
 }
 

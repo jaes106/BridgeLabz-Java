@@ -1,180 +1,494 @@
 # BridgeLabz-Training
-## Daily progress log BridgeLabz-Training readme file:
 
-- **08-Dec-2025 (Monday):**
-  Set up the complete development environment by installing Visual Studio Code, IntelliJ IDEA, and Git, and verified configurations.
+This repository tracks my daily learning, hands-on practice, and submissions during the **BridgeLabz Java Training Program**.
 
-- **09-Dec-2025 (Tuesday):**
-  Learned Java fundamentals including features of Java, JDK, JVM, JRE, execution flow, data types, variables, and basic syntax.
+---
 
-- **10-Dec-2025 (Wednesday):**
-  Practiced basic Java programs, understood program structure, and used Git commands (`init`, `add`, `commit`, `push`) to upload programs to GitHub.
+## Training Log
 
-- **11-Dec-2025 (Thursday):**
-  Learned Java basic syntax, variables, methods, and block scope, and practiced simple Java programs.
+---
 
-- **12-Dec-2025 (Friday):**
-  Continued learning Java fundamentals including operators, expressions, methods, and scope rules.
+### • 08-Dec-2025 (Monday)
+Set up the complete development environment — installed VS Code, Visual Studio, IntelliJ IDEA, Eclipse IDE, and Git, and verified all configurations.
 
-- **13-Dec-2025 (Saturday):**
-  Practiced Java methods including defining methods, calling methods, passing parameters, return types, and basic method-based programs.
+---
 
-- **15-Dec-2025 (Monday):**
-  Solved Programming Elements Level 1 and Level 2 problems using user-defined input, command-line input, and real-world scenarios.
+### • 09-Dec-2025 (Tuesday)
+Learned Java fundamentals: features of Java, JDK, JVM, JRE, execution flow, data types, variables, and basic syntax.
 
-- **16-Dec-2025 (Tuesday):**
-  Learned Java control flow concepts including conditional statements, loops (`for`, `while`, `do-while`), `switch` statements, and practiced Level 1 and Level 2 problems.
+---
 
-- **17-Dec-2025 (Wednesday):**
-  Learned Java arrays and practiced Level 1 and Level 2 array problems involving one-dimensional arrays.
+### • 10-Dec-2025 (Wednesday)
+Practiced basic Java programs, understood program structure, and used Git commands (`init`, `add`, `commit`, `push`) to upload programs to GitHub.
 
-- **18-Dec-2025 (Thursday):**
-  Completed array problems and started Level 1 method problems in Java.
+---
 
-- **19-Dec-2025 (Friday):**
-  Completed method problems, started string problems, and pushed all code to GitHub.
+### • 11-Dec-2025 (Thursday)
+Worked on practice problems covering Strings, basic string operations, Arrays, and input/output programs using terminal commands.
 
-- **20-Dec-2025 (Saturday):**
-  Worked on string problems (completed Level 2 and started Level 3), and attended a partial weekly review.
+---
 
-- **22-Dec-2025 (Monday):**
-  Studied Object-Oriented Programming concepts including Java classes & objects and completed review.
+### • 12-Dec-2025 (Friday)
+Focused on array concepts: one-dimensional arrays, initialization, traversal, memory allocation, and basic problem solving.
 
-- **23-Dec-2025 (Tuesday):**
-  Completed object and class problems and started constructor problems in Java.
+---
 
-- **08-Jan-2026 (Thursday):**
-  Installed and configured Git Flow and practiced basic Git Flow commands.
+### • 13-Dec-2025 (Saturday)
+Practiced Java Methods — defining methods, calling methods, passing parameters, return types, and basic method-based programs.
 
-- **09-Jan-2026 (Friday):**
-  Practiced problems on `this`, `static`, and `final` keywords in Java.
+Soft Skills Session attended.
 
-- **10-Jan-2026 (Saturday):**
-  Attended project zeroth review, started object modeling problems using classes and relationships in Java.
+---
 
-- **12-Jan-2026 (Monday):**
-  Learned inheritance concepts and practiced inheritance-related problems in Java.
+### • 15-Dec-2025 – 19-Dec-2025 (Monday – Friday)
+Solved Programming Elements Level 1 & 2; practiced Control Flow (conditionals, loops, switch-case), Java Arrays (1D & 2D), and Java Methods with string handling using branch-based Git workflow.
 
-- **13-Jan-2026 (Tuesday):**
-  Completed inheritance and started learning and practicing encapsulation problems in Java.
+---
 
-- **14-Jan-2026 (Wednesday):**
-  Completed encapsulation, started practicing problems on Linked Lists.
+### • 20-Dec-2025 (Saturday)
+Installed and set up Notepad++, Eclipse IDE, and JDK; revised Java basics.
 
-- **16-Jan-2026 (Friday):**
-  Corrected branch names, package names, and Git commit messages according to naming conventions.
+Soft Skills Session attended.
 
-- **17-Jan-2026 (Saturday):**
-  Practiced stack, queue, HashMap, and hashing function problems, and pushed the code to GitHub.
+---
 
-- **19-Jan-2026 (Monday):** Implemented and analyzed sorting algorithms — Bubble, Insertion, Merge, and Quick Sort.
-  
-- **20-Jan-2026 (Tuesday):** Learned and practiced StringBuilder and StringBuffer, focusing on mutability and performance differences.
+### • 22-Dec-2025 (Monday)
+Studied Object-Oriented Programming concepts — Java classes and objects.
 
-- **21-Jan-2026 (Wednesday):** Studied FileReader and InputStreamReader, and practiced file handling using character streams.
+---
 
-- **22-Jan-2026 (Thursday):** Practiced implementing Linear Search programs in Java and solved related problems.
+### • 23-Dec-2025 (Tuesday)
+Learned Java constructors, instance vs class variables, access modifiers; completed array practice submissions.
 
-- **23-Jan-2026 (Friday):** Implemented Binary Search and analyzed time complexity differences between Linear and Binary Search.
+---
 
-- **24-Jan-2026 (Saturday):** Studied runtime analysis, Big-O notation, and evaluated time and space complexity.
+### • 08-Jan-2026 (Thursday)
+Practiced Git workflow basics: feature branches, merges, releases, hotfixes, tagging, and pushing branches to GitHub.
 
-- **27-Jan-2026 (Tuesday):** Learned Java Generics — type parameters, generic classes, and methods.
+---
 
-- **28-Jan-2026 (Wednesday):** Worked on advanced generics concepts including bounded types and wildcard usage.
+### • 09-Jan-2026 (Friday)
+Studied `this`, `static`, `final` keywords and `instanceof` operator; completed Level 1 lab practice.
 
-- **29-Jan-2026 (Thursday):** Completed the Factory Robot Hazard Analyzer system project and pushed the final updates to GitHub.
+---
 
-- **30-Jan-2026 (Friday):** Studied the overview and hierarchy of the Java Collections Framework, including List, Set, Queue, Deque, and Map interfaces with their implementations.
+### • 10-Jan-2026 (Saturday)
+Learned Object-Oriented Design Principles: Class Diagrams, Object Diagrams, and Sequence Diagrams.
 
-- **31-Jan-2026 (Saturday):** Learned Java I/O streams, types of streams, and practiced file streams and buffered streams.
+Soft Skills Session attended.
 
-- **02-Feb-2026 (Monday):** Studied types of exceptions including checked, unchecked, and custom exceptions, and practiced handling using try-catch and throw statements.
+---
 
-- **03-Feb-2026 (Tuesday):** Implemented try-catch-finally, try-with-resources, and used the throws clause in practical exception handling examples.
+### • 12-Jan-2026 (Monday)
+Studied Inheritance: single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, and polymorphism.
 
-- **04-Feb-2026 (Wednesday):** Learned regex concepts including metacharacters, quantifiers, common validation patterns (email, password, phone), and practiced using Java Pattern and Matcher APIs.
+---
 
-- **05-Feb-2026 (Thursday):** Completed the Factory OceanFleet App and pushed the final updates to GitHub using GitFlow branching strategy.
+### • 13-Jan-2026 (Tuesday)
+Learned Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
 
-- **06-Feb-2026 (Friday):** Reinforced regex concepts including metacharacters, quantifiers, and validation patterns, with additional practice using Pattern and Matcher APIs.
+---
 
-- **07-Feb-2026 (Saturday):** Practiced writing JUnit test cases for multiple modules and implemented assertions for validation.
+### • 14-Jan-2026 (Wednesday)
+Submitted Data Structures work on Linked Lists: Single, Double, and Circular Linked Lists.
 
-- **09-Feb-2026 (Monday):** Worked on advanced JUnit concepts including annotations, test lifecycle methods, and improving test coverage.
+---
 
-- **10-Feb-2026 (Tuesday):** Learned Java interface types and practiced implementing interfaces using anonymous classes.
+### • 15-Jan-2026 (Thursday)
+Practiced Inheritance topic (Week 2 – Day 5); pushed completed code to GitHub.
 
-- **11-Feb-2026 (Wednesday):** Studied lambda expressions, Stream API, and method references with practical programming examples.
+---
 
-- **07-Feb-2026 (Saturday):** Practiced writing JUnit test cases for multiple modules and implemented assertions for validation. :contentReference[oaicite:0]{index=0}
-- **09-Feb-2026 (Monday):** Worked on advanced JUnit concepts including annotations, test lifecycle methods, and improving test coverage.
+### • 16-Jan-2026 (Friday)
+Studied Stack, Queue, HashMap, and Hashing Functions.
 
-- **10-Feb-2026 (Tuesday):** Learned Java interface types and practiced implementing interfaces using anonymous classes.
+---
 
-- **11-Feb-2026 (Wednesday):** Studied lambda expressions, Stream API, and method references with practical programming examples.
+### • 17-Jan-2026 (Saturday)
+Learned Sorting Algorithms: Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort.
 
-- **12-Feb-2026 (Thursday):** Explored advanced usage of Stream API including filtering, mapping, and reduction operations with hands-on coding practice.
+Soft Skills Session attended.
 
-- **13-Feb-2026 (Friday):** Studied Java 8 modifications in the Collections Framework and implemented examples using streams with collections.
+---
 
-- **16-Feb-2026 (Monday):** Learned multithreading concepts including Thread class and Runnable interface and implemented basic threading programs.
+### • 19-Jan-2026 – 20-Jan-2026 (Monday – Tuesday)
+Covered StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, and Binary Search.
 
-- **17-Feb-2026 (Tuesday):** Studied thread lifecycle and different thread states and practiced thread control methods.
+---
 
-- **18-Feb-2026 (Wednesday):** Learned DBMS fundamentals including types (relational and non-relational) and understood when to use each.
+### • 21-Jan-2026 (Wednesday)
+Studied Algorithm Runtime Analysis and Big-O Notation: Time & Space Complexity, Best/Worst/Average cases.
 
-- **19-Feb-2026 (Thursday):** Studied MySQL and RDBMS concepts including DDL, DML, and ER diagrams with practical examples.
+---
 
-- **20-Feb-2026 (Friday):** Learned table indexing, normalization forms, and joins, and practiced SQL queries.
+### • 22-Jan-2026 – 23-Jan-2026 (Thursday – Friday)
+Built **OOPS Banner App** (console-based, UC1–UC8) following GitFlow, clean commit history, and branch management.
 
-- **23-Feb-2026 (Monday):** Studied stored procedures and triggers and implemented examples in MySQL.
+---
 
-- **24-Feb-2026 (Tuesday):** Learned ER diagram design and JDBC connectivity and implemented basic database connection programs.
+### • 24-Jan-2026 (Saturday)
+Practice, revision, and problem-solving exercises.
 
-- **25-Feb-2026 (Wednesday):** Practiced JDBC operations and completed Day 04 JDBC practice problem.
+Soft Skills Session attended.
 
-- **26-Feb-2026 (Thursday):** Worked on JSON data handling and completed submission of JSON data.
+---
 
-- **27-Feb-2026 (Friday):** Started Quantity Measurement project and implemented UC2: feet and inches measurement equality.
+### • 26-Jan-2026 – 27-Jan-2026 (Monday – Tuesday)
+Studied Java Generics: type parameters, generic classes/methods, bounded type parameters, and wildcards.
 
-- **02-Mar-2026 (Monday):** Continued Quantity Measurement project and implemented UC3 (generic quantity class for DRY principle) and UC4 (extended unit support).
+---
 
-- **03-Mar-2026 (Tuesday):** Worked on unit conversion logic and implemented UC5 (unit-to-unit conversion), UC6 (addition of two length units), and UC7 (addition with target unit).
+### • 28-Jan-2026 (Wednesday)
+Covered Collections Framework: List, Set, Queue, Deque, Map interfaces and implementations.
 
-- **04-Mar-2026 (Wednesday):** Refactored code and implemented UC8 (unit enum with conversion responsibility) and UC9 (weight measurement operations).
+---
 
-- **05-Mar-2026 (Thursday):** Extended multi-category support with UC10 (generic quantity class with unit interface) and UC11 (volume measurement operations).
+### • 29-Jan-2026 (Thursday)
+Developed **Factory Robot Hazard Analyzer** — evaluates hazard risk score using custom exception handling.
 
-- **06-Mar-2026 (Friday):** Completed UC12 (subtraction and division), UC13 (centralized arithmetic logic), and UC14 (temperature measurement with IMeasurable interface).
+---
 
-- **09-Mar-2026 (Monday):** Studied Apache Tomcat setup and servlet fundamentals and implemented basic request-response handling programs.
+### • 30-Jan-2026 – 31-Jan-2026 (Friday – Saturday)
+Studied Java I/O Streams: File, Object, ByteArray, Buffered Streams, Reader and Writer.
 
-- **10-Mar-2026 (Tuesday):** Learned servlet lifecycle, session management, and practiced deploying applications on Tomcat.
+---
 
-- **11-Mar-2026 (Wednesday):** Studied Spring 5 fundamentals including IoC, dependency injection, and bean configuration.
+Soft Skills Session attended.
 
-- **12-Mar-2026 (Thursday):** Explored Spring Core concepts and implemented annotation-based configuration examples.
+### • 02-Feb-2026 (Monday)
+Studied Exceptions: Checked/Unchecked, Custom Exceptions, try-catch, try-finally, try-with-resources, `throws`/`throw`.
 
-- **13-Mar-2026 (Friday):** Learned Spring MVC architecture and implemented controller-based web applications.
+---
 
-- **16-Mar-2026 (Monday):** Studied JSP and JSTL concepts and built dynamic web pages with backend integration.
+### • 03-Feb-2026 (Tuesday)
+Started **OceanFleet App** — console-based Java application demonstrating OOP and Data Structures with GitFlow.
 
-- **17-Mar-2026 (Tuesday):** Worked on Spring MVC presentation patterns and integrated JSP with controllers.
+---
 
-- **18-Mar-2026 (Wednesday):** Learned REST API fundamentals and implemented basic RESTful services using Spring.
+### • 04-Feb-2026 (Wednesday)
+Covered Regex (metacharacters, quantifiers, email/password/phone validation) and JUnit (annotations, test cases, assertions).
 
-- **19-Mar-2026 (Thursday):** Practiced REST API handling (GET, POST, PUT, DELETE) with proper mappings.
+---
 
-- **20-Mar-2026 (Friday):** Integrated H2 database with Spring applications and performed CRUD operations.
+### • 05-Feb-2026 – 07-Feb-2026 (Thursday – Saturday)
+Studied Java 8 Features: Lambda Expressions, Stream API, Method References, Anonymous Classes, Interface types. Created **STREAM-API** repository and practiced Stream API with GitFlow.
 
-- **23-Mar-2026 (Monday):** Studied distributed systems and understood microservices fundamentals.
+---
 
-- **24-Mar-2026 (Tuesday):** Explored REST API design principles and best practices for scalability.
+Soft Skills Session attended.
 
-- **25-Mar-2026 (Wednesday):** Worked on advanced REST API implementation and tested endpoints using Postman.
+### • 09-Feb-2026 – 10-Feb-2026 (Monday – Tuesday)
+Focused on Advanced Java (Java 8 Features) — theory and practical implementation.
 
-- **26-Mar-2026 (Thursday):** Practiced integrating controller, service, and repository layers in Spring applications.
+---
 
-- **27-Mar-2026 (Friday):** Started solving Spring problems and created a dedicated repository for practice.
+### • 11-Feb-2026 (Wednesday)
+Studied Java 8 Streams API in depth; submitted CSV Data Handling assignment.
 
+---
+
+### • 12-Feb-2026 (Thursday)
+Solved **Lexical Twist Puzzle** — console-based Java app with string transformations and use-case-based design.
+Started HackerRank practice (60 Java problems, 5 per day).
+
+---
+
+### • 13-Feb-2026 – 14-Feb-2026 (Friday – Saturday)
+HackerRank practice continued.
+
+---
+
+### • 16-Feb-2026 (Monday)
+Solved Tree and Graph problem statements (5 Tree + 5 Graph problems in Java).
+
+---
+
+### • 17-Feb-2026 – 18-Feb-2026 (Tuesday – Wednesday)
+Covered Annotations, Reflection, and Design Principles: built-in/custom annotations, annotation processing, and using Reflection in Java.
+
+---
+
+### • 19-Feb-2026 – 21-Feb-2026 (Thursday – Saturday)
+Practiced Design Patterns; solved Multi-threading problem statements.
+
+---
+
+Soft Skills Session attended.
+
+### • 23-Feb-2026 (Monday)
+Started **Quantity Measurement App** — introduced TDD methodology, Git workflow setup (feature branches per use case).
+- **UC1:** Feet measurement equality — `QuantityMeasurementApp` comparing two foot values.
+
+---
+
+### • 24-Feb-2026 (Tuesday)
+- **MySQL Introduction** — installed MySQL, learned basics, completed Employee Payroll and AddressBook assignments.
+- **UC2:** Feet and Inches measurement equality — extended equality check to Inches.
+
+---
+
+### • 25-Feb-2026 (Wednesday)
+- **ER Diagram & JDBC Intro** — Normalisation, ER Diagram for Employee Payroll and AddressBook; JDBC API with PreparedStatement.
+- **UC3:** Generic Quantity class refactor applying DRY principle.
+- **UC4:** Extended unit support — added Yards and Centimeters to `LengthUnit`.
+
+---
+
+### • 26-Feb-2026 (Thursday)
+- **UC5:** Unit-to-Unit Conversion (same measurement type) — explicit conversion between length units.
+
+---
+
+### • 27-Feb-2026 (Friday)
+- **JDBC Maven Project** — Created Maven project, implemented CRUD operations with MySQL Connector.
+- **JDBC Day 4 Practice** — Employee Payroll use cases with custom SQL exceptions.
+
+---
+
+### • 28-Feb-2026 (Saturday)
+- **UC6:** Addition of two length units (returns result in unit of first operand).
+- **UC7:** Addition with target unit specification — caller chooses result unit.
+- **UC8:** Refactored `LengthUnit` enum as standalone class following Single Responsibility Principle.
+- Completed Quantity Measurement App up to UC8 and pushed to GitHub.
+
+Soft Skills Session attended.
+
+---
+
+### • 02-Mar-2026 (Monday)
+- **JDBC Transactions** — Date queries (Java Date & SQL Date), MySQL Functions, Group By, JDBC Transactions, Employee Payroll ER Model with JDBC.
+- **UC9:** Weight Measurement — equality, conversion, and addition (Kilogram, Gram, Pound).
+- **UC10:** Generic ``Quantity<U>`` class with ``IMeasurable`` interface for multi-category support.
+
+---
+
+### • 03-Mar-2026 (Tuesday)
+- **UC11:** Volume Measurement — equality, conversion, and addition (Litre, Millilitre, Gallon).
+- **UC12:** Subtraction and Division operations on Quantity Measurements.
+- **UC13:** Centralized arithmetic logic refactor (DRY principle) using a shared private helper method.
+- **UC14:** Temperature Measurement with selective arithmetic support and ``IMeasurable`` refactoring.
+
+---
+
+### • 04-Mar-2026 (Wednesday)
+Introduction to JSON — reading, writing, parsing JSON data, and JSON Schema Validation.
+
+---
+
+### • 05-Mar-2026 – 07-Mar-2026 (Thursday – Saturday)
+**Tomcat & Servlet** — created a Java Web Server, introduced Tomcat, developed a simple Servlet application. Practice and revision over the weekend.
+
+---
+
+### • 09-Mar-2026 (Monday)
+**Spring Intro** — built Hello World App; deep-dived into Spring Core Framework: Annotations, IoC, Dependency Injection.
+
+---
+
+### • 10-Mar-2026 – 11-Mar-2026 (Tuesday – Wednesday)
+**Spring REST API Calls** — built `GreetingController` with multiple HTTP methods (UC1–UC8), tested using CURL; started Simple Messaging App.
+
+---
+
+### • 12-Mar-2026 – 16-Mar-2026 (Thursday – Monday)
+Practice, revision, and completion of Greeting App use cases.
+
+---
+
+### • 17-Mar-2026 (Tuesday)
+**Spring Framework — Multi-Layer Development with H2 DB** — built My Greeting App using H2 DB, explored Spring's multi-layered architecture.
+
+---
+
+### • 18-Mar-2026 – 19-Mar-2026 (Wednesday – Thursday)
+Practice and revision of Spring multi-layer concepts.
+
+---
+
+### • 20-Mar-2026 (Friday)
+**Spring Employee Payroll App — Service Layer** — set up service layer; started AddressBook App (Sections 1 & 2: controller and CURL calls).
+
+---
+
+### • 21-Mar-2026 (Saturday)
+Practice, revision, and problem-solving exercises.
+
+Soft Skills Session attended.
+
+---
+
+### • 23-Mar-2026 – 24-Mar-2026 (Monday – Tuesday)
+**Spring Employee Payroll App — Application Settings, Validators & Exception Handlers** — added validations, exception handling; completed AddressBook App up to Section 4 (service layer with local list, validations, CURL tested).
+
+---
+
+### • 25-Mar-2026 (Wednesday)
+**Spring Employee Payroll App — MySQL Repository & Service** — configured Hibernate properties, created full DTO and Model, added validations, saved data to MySQL, implemented all CRUD operations.
+
+---
+
+### • 26-Mar-2026 (Thursday)
+**Spring Employee Payroll App — MySQL Repository & Service (Advanced)**
+- Configured Hibernate properties in `application.properties`.
+- Created complete Employee Payroll DTO and Model with field-level validations.
+- Mapped Model from DTO; saved data to MySQL; implemented all CRUD operations.
+
+---
+
+### • 27-Mar-2026 (Friday)
+Practice and revision of Spring Boot MySQL integration; resolved pending Spring Boot assignments with proper folder structure.
+
+---
+
+### • 30-Mar-2026 (Monday)
+**UC15: N-Tier Architecture Refactoring** — converted Quantity Measurement App from plain Java into a Spring-based N-Tier project.
+**Spring Security** — studied Spring Security fundamentals; started **Hospital Management System** with Spring Boot + JWT.
+
+---
+
+### • 31-Mar-2026 (Tuesday)
+**Hospital Management System** — implemented JWT-based authentication and role-based authorization; configured Spring Security filter chain.
+
+---
+
+### • 01-Apr-2026 (Wednesday)
+**FundooNotes App — Part 1** — implemented Spring Boot foundations, externalized configuration, REST API basics, Bean Scopes, JPA, User Authentication Design, Exception Handling, and Logging.
+
+---
+
+### • 02-Apr-2026 (Thursday)
+**FundooNotes App — Part 2** — integrated JMS, Redis, RabbitMQ, Spring Batch, Excel integration, Caching, AOP, and Spring Cloud; submitted both parts under a single repository.
+
+---
+
+### • 03-Apr-2026 (Friday)
+Practice and revision of FundooNotes advanced backend concepts.
+
+---
+
+### • 06-Apr-2026 (Monday)
+**UC16: Database Integration with JDBC** — implemented JDBC-based persistence layer for Quantity Measurement App.
+
+---
+
+### • 07-Apr-2026 (Tuesday)
+**UC17: Spring Framework Integration** — added REST Services and Spring Data JPA to Quantity Measurement App; replaced raw JDBC with JPA repositories.
+
+---
+
+### • 08-Apr-2026 (Wednesday)
+Studied JMS (Java Message Service) and Redis with Spring Boot; planned **Bookstore E-Commerce Microservices** architecture — decomposed monolithic API into 9 independent services.
+
+---
+
+### • 09-Apr-2026 (Thursday)
+**Bookstore E-Commerce** — set up core infrastructure: API Gateway (Spring Cloud Gateway, port 8080), Eureka Discovery Server (port 8761), and Config Server (port 8888).
+
+---
+
+### • 10-Apr-2026 (Friday)
+**Bookstore E-Commerce** — implemented User Service (PostgreSQL, JWT issuance) and Admin Service; registered both with Eureka.
+
+---
+
+### • 13-Apr-2026 (Monday)
+**Bookstore E-Commerce** — studied RabbitMQ and Spring Batch material; built Product Service (book CRUD, inventory) and Cart Service (Redis-backed sessions).
+
+---
+
+### • 14-Apr-2026 (Tuesday)
+**Bookstore E-Commerce** — implemented WishList Service, Customer Service (delivery addresses), and Order Service with Kafka event publishing for order lifecycle.
+
+---
+
+### • 15-Apr-2026 (Wednesday)
+**Bookstore E-Commerce** — studied Microservices with Java & Spring Boot material; built Feedback Service (reviews & ratings) and Notification Service (Kafka consumer for email/SMS alerts).
+
+---
+
+### • 16-Apr-2026 (Thursday)
+**Bookstore E-Commerce** — end-to-end integration testing across all 9 microservices; verified synchronous (OpenFeign) and asynchronous (Kafka) inter-service communication.
+
+---
+
+### • 17-Apr-2026 (Friday)
+**Bookstore E-Commerce — Microservices Architecture** — finalized complete 9-microservice bookstore system; Dockerized all services with ``docker-compose`` and submitted.
+
+---
+
+### • 20-Apr-2026 (Monday)
+Spring Cloud deep dive — centralized Config Server setup, circuit breakers (Resilience4j), and distributed tracing.
+
+---
+
+### • 21-Apr-2026 (Tuesday)
+Practice and revision of Spring Cloud patterns and microservices best practices.
+
+---
+
+### • 22-Apr-2026 (Wednesday)
+Studied OAuth2 and Google Authentication flow with Spring Security; user management and token refresh patterns.
+
+---
+
+### • 24-Apr-2026 (Friday)
+Revised Spring Cloud Gateway — routing rules, JWT validation, rate limiting, and CORS configuration at the gateway level.
+
+---
+
+### • 27-Apr-2026 (Monday)
+**Cloud Deployment** — followed recorded session on 3-tier app deployment on AWS EC2: Database tier (MySQL), Backend tier (Spring Boot), Web Server tier (Nginx).
+
+---
+
+### • 28-Apr-2026 (Tuesday)
+Practice — manual EC2 deployment verification; debugged Spring Boot–MySQL connectivity on EC2 instance.
+
+---
+
+### • 29-Apr-2026 (Wednesday)
+Continued AWS cloud deployment practice and studied Jenkins CI/CD pipelines, automated builds, and deployment workflows.
+
+---
+
+### • 30-Apr-2026 (Thursday)
+Practice and revision of cloud deployment and DevOps fundamentals.
+
+---
+
+### • 04-May-2026 (Monday)
+**Stock Portfolio App** — initialized all service modules; set up Eureka Discovery Server, Config Server, and API Gateway with JWT validation.
+
+---
+
+### • 05-May-2026 (Tuesday)
+**Stock Portfolio App** — implemented Auth Service (Spring Security + JWT + OAuth2) and User Service with profile management.
+
+---
+
+### • 06-May-2026 (Wednesday)
+**Stock Portfolio App** — built Portfolio Service and Price Fetcher Service; integrated RabbitMQ for async price update events between services.
+
+---
+
+### • 07-May-2026 (Thursday)
+**Stock Portfolio App** — implemented Alert Service and Notification Service; added Redis caching for portfolio data.
+**UC18: Google Authentication and User Management** — integrated Google OAuth2 login and user management into Quantity Measurement App.
+**UC19: Spring Boot Microservices** — refactored Quantity Measurement App into a Spring Boot microservices architecture.
+
+---
+
+### • 08-May-2026 (Friday)
+**Docker** — containerized all Stock Portfolio microservices; wrote Dockerfiles per service and a unified ```docker-compose`.yml``; studied Docker networking, volumes, and multi-container orchestration.
+
+---
+
+### • 11-May-2026 (Monday)
+**AWS EC2 Deployment** — deployed Stock Portfolio App on AWS EC2; configured security groups, environment variables, and MySQL RDS; implemented and tested Report Service.
+
+---
+
+### • 12-May-2026 (Tuesday)
+**Jenkins CI/CD** — set up Jenkins pipeline for automated build, test, and deployment of Stock Portfolio App; end-to-end pipeline verified with GitHub webhook integration.
+
+---
